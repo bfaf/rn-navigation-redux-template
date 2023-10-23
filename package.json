@@ -1,0 +1,11 @@
+{
+  "name": "react-native-navigation-redux-template",
+  "version": "0.0.1",
+  "private": true,
+  "repository": "git@github.com:bfaf/rn-navigation-redux-template.git",
+  "author": "Krasimir Chonov <kchonov@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
